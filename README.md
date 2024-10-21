@@ -31,10 +31,10 @@ From this experience, I gained hands-on skills in:
 
 ## Task Details
 
-### (Task 1)[/Task_1.ipynb]: Investigate and Analyze Price Data
+### Task 1: Investigate and Analyze Price Data
 In this task, I was provided with natural gas storage contract data to forecast prices for one year, assisting a client interested in trading. I analyzed the data to estimate the purchase price of gas for any past date and projected the prices into the future.
 
-### (Task 2)[/Task_2.py]: Price a Commodity Storage Contract
+### Task 2: Price a Commodity Storage Contract
 This task involved building a prototype pricing model to generate automated quotes for clients. The script returns the contract price for the specified date based on these parameters/inputs:
 - Injection dates
 - Withdrawal dates
@@ -43,7 +43,7 @@ This task involved building a prototype pricing model to generate automated quot
 - Maximum storage volume
 - Storage costs
 
-### (Task 3)[/Task_3.ipynb]: Credit Risk Analysis
+### Task 3: Credit Risk Analysis
 In this task, I trained a machine learning model to estimate the probability of default based on customer characteristics. Five models were trained and all models surpassed 99% Accuaracy. The models used for this task are shown below:
 | Model | Accuracy |
 | ----- | -------- |
@@ -53,7 +53,7 @@ In this task, I trained a machine learning model to estimate the probability of 
 | K-Nearest Neighbors | 99.3% |
 | Support Vector Machine | 99.2% |
 
-### (Task 4)[/Task_4.py]: Bucket FICO Scores
+### Task 4: Bucket FICO Scores
 A FICO score is a standardized credit score that reflects the creditworthiness of a borrower, ranging from 300 to 850. In this task, I used Python to strategically bucket customers by their FICO scores to determine the probability of default.
 To achieve this, I applied quantization and dynamic programming techniques. I also calculated mean squared error (MSE) and root mean squared error (RMSE) to evaluate the accuracy of my model.
 
