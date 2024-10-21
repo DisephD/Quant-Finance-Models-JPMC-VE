@@ -68,13 +68,13 @@ To achieve this, I applied quantization and dynamic programming techniques. I al
   
 ## Images
 Task 1:
-![image](/assets/screenshot-1.png)
+![image](/assets/Screenshot-1.png)
 Task 2:
-![image](/assets/screenshot-4.png)
+![image](/assets/Screenshot-4.png)
 Task 3:
-![image](/assets/screenshot-5.png)
-![image](/assets/screenshot-3.png)
-![image](/assets/screenshot-2.png)
+![image](/assets/Screenshot-5.png)
+![image](/assets/Screenshot-3.png)
+![image](/assets/Screenshot-2.png)
 
 ## Contact
 If you have any questions or are interested in my work, feel free to send me an email or via LinkedIn.
