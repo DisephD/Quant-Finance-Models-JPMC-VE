@@ -69,5 +69,5 @@ To achieve this, I applied quantization and dynamic programming techniques. I al
 ## Images
 
 ## Contact
-If you have any questions or are interested in my work, feel free to reach out (via email)-[disephdumigoni@gmail.com]
+If you have any questions or are interested in my work, feel free to send me an email or via LinkedIn.
 
