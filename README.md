@@ -67,11 +67,8 @@ To achieve this, I applied quantization and dynamic programming techniques. I al
 - NumPy: Numerical operations
   
 ## Images
-Task 1:
 ![image](/assets/Screenshot-1.png)
-Task 2:
 ![image](/assets/Screenshot-4.png)
-Task 3:
 ![image](/assets/Screenshot-5.png)
 ![image](/assets/Screenshot-3.png)
 ![image](/assets/Screenshot-2.png)
