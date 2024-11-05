@@ -1,4 +1,7 @@
 # Quantitative Research Virtual Experience
+
+![image](/assets/Screenshot-4.png)
+
 This repository contains four tasks completed as part of my Quantitative Research Virtual Internship with JP Morgan Chase. Each task demonstrates my ability to analyze financial data, build machine learning models, and apply statistical methods to solve real-world business problems.
 
 ## Table of Contents
@@ -68,7 +71,6 @@ To achieve this, I applied quantization and dynamic programming techniques. I al
   
 ## Images
 ![image](/assets/Screenshot-1.png)
-![image](/assets/Screenshot-4.png)
 ![image](/assets/Screenshot-5.png)
 ![image](/assets/Screenshot-3.png)
 ![image](/assets/Screenshot-2.png)
