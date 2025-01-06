@@ -5,17 +5,17 @@
 This repository contains four tasks completed as part of my Quantitative Research Virtual Internship with JP Morgan Chase. Each task demonstrates my ability to analyze financial data, build machine learning models, and apply statistical methods to solve real-world business problems.
 
 ## Table of Contents
-1. Overview
-2. Data
-3. What I Learnt
-4. Task Descriptions
+1. [Overview](#overview)
+2. [Data](#data)
+3. [What I Learnt](#what-i-learnt)
+4. [Task Descriptions](#task-descriptions)
 - Task 1: Investigate and Analyze Price Data
 - Task 2: Price a Commodity Storage Contract
 - Task 3: Credit Risk Analysis
 - Task 4: Bucket FICO Scores
-5. Technologies Used
-6. Images
-7. Contact
+5. [Technologies Used](#Technologies-Used)
+6. [Images](#images)
+7. [Contact](#contact)
 
 ## Overview
 During the virtual experience, I was exposed to the quantitative aspects of financial services, particularly focusing on commodity pricing, credit risk analysis, and data modeling. I employed various tools and machine learning algorithms to deliver insights and build working prototypes. This repository documents the work done on four key tasks, each representing a different business problem tackled using Python and data analysis techniques.]
