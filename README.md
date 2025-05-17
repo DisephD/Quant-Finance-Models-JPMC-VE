@@ -75,7 +75,7 @@ To achieve this, I applied quantization and dynamic programming techniques. I al
 ![image](/assets/Screenshot-3.png)
 ![image](/assets/Screenshot-2.png)
 ![image](/assets/Screenshot-5.png)
-![image](/assets/Certificate_JPMC_VI.png)
+![image](/assets/Certificate_JPMC_VI.jpg)
 
 ## Contact
 If you have any questions or are interested in my work, feel free to send me an email or via LinkedIn.
